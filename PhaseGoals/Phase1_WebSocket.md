@@ -10,7 +10,7 @@
 ## Components
 
 ### 1.1 WebSocket Server (Go)
-// Core responsibilities:
+**Core responsibilities:**
 - Accept incoming WebSocket connections
 - Maintain active connection pool
 - Route messages between clients
